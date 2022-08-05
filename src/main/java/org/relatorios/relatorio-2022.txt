@@ -1,0 +1,23 @@
+05/08/2022
+18:33:10 - Carregando caminhão:  - 2 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:10 - Carregando caminhão:  - 6 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:10 - Carregando caminhão:  - 3 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:10 - Carregando caminhão:  - 6 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:10 - Carregando caminhão:  - 4 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Picual'} na plantação 
+18:33:14 - Recebendo Caminhão - 2 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:15 - Recebendo Caminhão - 4 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Picual'} na plantação 
+18:33:15 - Recebendo Caminhão - 6 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:16 - Recebendo Caminhão - 3 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:17 - Recebendo Caminhão - 6 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:18 - Carregando caminhão:  - 2 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:20 - Carregando caminhão:  - 6 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:20 - Carregando caminhão:  - 5 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:22 - Carregando caminhão:  - 7 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Picual'} na plantação 
+18:33:23 - Recebendo Caminhão - 2 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:24 - Carregando caminhão:  - 4 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:25 - Recebendo Caminhão - 6 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:25 - Recebendo Caminhão - 5 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:26 - Carregando caminhão:  - 3 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 
+18:33:27 - Recebendo Caminhão - 7 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Picual'} na plantação 
+18:33:27 - Recebendo Caminhão - 4 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Galega'} na plantação 
+18:33:32 - Recebendo Caminhão - 3 >> Plantacao{lagar=org.game.Lagar@629d1f2e, nome='Plantação de Cordovil'} na plantação 

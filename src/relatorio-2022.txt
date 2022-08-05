@@ -1,0 +1,73 @@
+31/07/2022
+14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@3246942e na plantação 14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 
+
+
+
+
+14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:15 - Carregando caminhão:  - 2 >> org.game.Plantacao@3246942e na plantação 14:31:15 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:15 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 
+
+
+
+14:31:15 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 
+
+14:31:18 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 14:31:18 - Recebendo Caminhão - 2 >> org.game.Plantacao@3246942e na plantação 14:31:18 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:18 - Recebendo Caminhão - 2 >> org.game.Plantacao@77297dc0 na plantação 
+
+
+
+14:31:20 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:20 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:20 - Carregando caminhão:  - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:20 - Recebendo Caminhão - 2 >> org.game.Plantacao@3246942e na plantação 
+
+
+
+14:31:20 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:20 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 
+
+14:31:21 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:21 - Carregando caminhão:  - 2 >> org.game.Plantacao@3246942e na plantação 
+
+14:31:21 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 
+14:31:21 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 
+14:31:22 - Carregando caminhão:  - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:22 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 
+
+14:31:22 - Carregando caminhão:  - 2 >> org.game.Plantacao@3246942e na plantação 14:31:22 - Recebendo Caminhão - 2 >> org.game.Plantacao@77297dc0 na plantação 
+
+14:31:23 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 14:31:23 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 
+
+14:31:24 - Recebendo Caminhão - 2 >> org.game.Plantacao@3246942e na plantação 14:31:24 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 
+
+14:31:24 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:24 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 
+
+14:31:25 - Recebendo Caminhão - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:25 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 
+
+14:31:26 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 14:31:26 - Recebendo Caminhão - 2 >> org.game.Plantacao@3246942e na plantação 
+
+14:31:26 - Carregando caminhão:  - 2 >> org.game.Plantacao@3246942e na plantação 14:31:26 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 14:31:26 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:26 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 
+
+
+
+14:31:27 - Carregando caminhão:  - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:27 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 
+
+14:31:27 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:27 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 
+
+14:31:27 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:27 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 
+
+14:31:31 - Recebendo Caminhão - 2 >> org.game.Plantacao@3246942e na plantação 14:31:31 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:31 - Carregando caminhão:  - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:31 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 
+
+
+
+14:31:32 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 14:31:32 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:32 - Recebendo Caminhão - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:32 - Carregando caminhão:  - 2 >> org.game.Plantacao@3246942e na plantação 
+
+
+
+14:31:33 - Carregando caminhão:  - 2 >> org.game.Plantacao@7d41efc na plantação 14:31:33 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 
+
+14:31:33 - Carregando caminhão:  - 2 >> org.game.Plantacao@7fcd8797 na plantação 14:31:33 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 
+
+14:31:34 - Recebendo Caminhão - 2 >> org.game.Plantacao@77297dc0 na plantação 14:31:34 - Carregando caminhão:  - 2 >> org.game.Plantacao@77297dc0 na plantação 
+
+14:31:34 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 14:31:34 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 
+
+14:31:34 - Recebendo Caminhão - 2 >> org.game.Plantacao@3246942e na plantação 14:31:34 - Carregando caminhão:  - 2 >> org.game.Plantacao@3aade4fd na plantação 
+
+14:31:35 - Recebendo Caminhão - 2 >> org.game.Plantacao@7d41efc na plantação 
+14:31:35 - Recebendo Caminhão - 2 >> org.game.Plantacao@7fcd8797 na plantação 
+14:31:35 - Recebendo Caminhão - 2 >> org.game.Plantacao@77297dc0 na plantação 
+14:31:37 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 
+14:31:37 - Recebendo Caminhão - 2 >> org.game.Plantacao@3aade4fd na plantação 
